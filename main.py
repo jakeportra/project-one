@@ -1,4 +1,7 @@
 #This is main.py
 print("hello")
 
-print("I will become part of a project.")
+for i in range(20):
+    print (i)
+
+print("this should be ok now")
